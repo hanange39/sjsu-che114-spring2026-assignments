@@ -1,40 +1,12 @@
 # CHE114: Course Assignments & Problem Sets
 
-A collection of problem sets, coding exercises, and lab assignments completed for **CHE114: Data Science in Chemical and Materials Engineering** at San Jose State University.
+Assignments completed for **CHE114: Data Science in Chemical and Materials Engineering** at San Jose State University.
 
 ## Course Context
 * **Course:** CHE114: Data Science in Chemical and Materials Engineering
 * **Institution:** San Jose State University
 * **Instructor:** Prof. Naoki Matsumura
 * **Term:** Spring 2026
-* **Author:** Angela Han
-
----
-
-## Assignments Directory
-
-| Assignment | Topic / Description | Folder / File | Status |
-| :--- | :--- | :--- | :--- |
-| **Pset 1** | Python Basics & Data Manipulation with Pandas | [`/pset-01`](./pset-01) | Completed |
-| **Pset 2** | Data Visualization & Exploratory Analysis | [`/pset-02`](./pset-02) | Completed |
-| **Pset 3** | Linear Regression & Model Evaluation | [`/pset-03`](./pset-03) | In Progress |
-| **Lab 1** | Processing Electrochemical Cycling Data | [`/lab-01`](./lab-01) | Completed |
-
----
-
-## Repository Structure
-
-```text
-sjsu-che114-spring2026-assignments/
-├── pset-01/
-│   ├── pset01.ipynb
-│   └── data.csv
-├── pset-02/
-│   └── pset02.ipynb
-├── lab-01/
-│   └── lab01.ipynb
-└── README.md
-```
 
 ---
 
@@ -47,7 +19,7 @@ sjsu-che114-spring2026-assignments/
 ### Running the Notebooks
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/hanange39/sjsu-che114-spring2026.git
    ```
 2. Navigate to the repository folder:
    ```bash

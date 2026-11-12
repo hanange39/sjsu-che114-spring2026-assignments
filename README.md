@@ -27,7 +27,7 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
    ```
 3. Install any required libraries:
    ```bash
-   pip install "flaml[automl]" pandas numpy matplotlib scikit-learn scipy
+   pip install "flaml[automl]" pandas numpy matplotlib scikit-learn scipy tensorflow
    ```
 4. Launch Jupyter Notebook and open any assignment folder:
    ```bash
@@ -38,4 +38,4 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
 * **Python 3**
 * **Jupyter Notebook**
 * **FLAML** (Automated Machine Learning)
-* **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`
+* **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`, 'tensorflow'

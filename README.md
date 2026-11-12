@@ -8,8 +8,6 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
 * **Instructor:** Prof. Naoki Matsumura
 * **Term:** Spring 2026
 
----
-
 ## Quick Start
 
 ### Prerequisites
@@ -27,7 +25,7 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
    ```
 3. Install any required libraries:
    ```bash
-   pip install "flaml[automl]" pandas numpy matplotlib scikit-learn scipy tensorflow
+   pip install "flaml[automl]" pandas numpy matplotlib scikit-learn scipy tensorflow ucimlrepo
    ```
 4. Launch Jupyter Notebook and open any assignment folder:
    ```bash
@@ -38,4 +36,5 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
 * **Python 3**
 * **Jupyter Notebook**
 * **FLAML** (Automated Machine Learning)
-* **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`, `tensorflow`
+* **Machine Learning & Deep Learning:** `tensorflow`, `keras`, `scikit-learn`
+* **Data & Science Libraries:** `pandas`, `numpy`, `matplotlib`, `scipy`, `ucimlrepo`

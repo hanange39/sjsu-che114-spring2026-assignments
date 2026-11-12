@@ -19,15 +19,15 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
 ### Running the Notebooks
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hanange39/sjsu-che114-spring2026.git
+   git clone https://github.com/hanange39/sjsu-che114-spring2026-assignments.git
    ```
 2. Navigate to the repository folder:
    ```bash
    cd sjsu-che114-spring2026-assignments
    ```
-3. Install common dependencies used across assignments:
+3. Install any required libraries:
    ```bash
-   pip install pandas numpy matplotlib scikit-learn scipy
+   pip install "flaml[automl]" pandas numpy matplotlib scikit-learn scipy
    ```
 4. Launch Jupyter Notebook and open any assignment folder:
    ```bash
@@ -37,4 +37,5 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
 ## Built With
 * **Python 3**
 * **Jupyter Notebook**
+* **FLAML** (Automated Machine Learning)
 * **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`

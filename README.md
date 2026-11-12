@@ -1,4 +1,4 @@
-# CHE114: Course Assignments & Problem Sets
+# CHE114 Course Assignments
 
 Assignments completed for **CHE114: Data Science in Chemical and Materials Engineering** at San Jose State University.
 

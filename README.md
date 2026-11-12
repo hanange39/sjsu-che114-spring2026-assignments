@@ -38,4 +38,4 @@ Assignments completed for **CHE114: Data Science in Chemical and Materials Engin
 * **Python 3**
 * **Jupyter Notebook**
 * **FLAML** (Automated Machine Learning)
-* **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`, 'tensorflow'
+* **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`, `tensorflow`
